@@ -28,7 +28,7 @@ function Home(){
                     </div>
                 </div>
                 <div>
-                    <h5>Shop by Categery</h5>
+                    <h3>Shop by Categery</h3>
                 </div>
                 <div>
                     
