@@ -1,0 +1,15 @@
+.col{
+    flex-direction: column;
+}
+.flex{
+    display: flex;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+#shop{
+    padding-left: calc(30vw);
+}

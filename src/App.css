@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.flex{
+    display: flex;
+}
+.col{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#logo{
+    margin-top: calc(10vh);
+    height: calc(20vh);
+    width: calc(20vw);
+}
+
+#green_color{
+    color: green;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#blue_color{
+    color: blue;
+}
+#title{
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+}
+.btn_div{
+    margin-top: calc(10vh);
+}
+.btn_div button{
+    border: none;
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: chartreuse;
+}
+.btn_div button:hover{
+    box-shadow: 5px 5px 8px gray;
+}
